@@ -1,1 +1,1 @@
-Creating a dockerfile
+Simple DOCKERFILE script following docker tutorial to create hello world using flask application and redis
